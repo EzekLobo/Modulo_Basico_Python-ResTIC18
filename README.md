@@ -2,7 +2,7 @@
 
 ## Repositorio referente as atividades praticas da residencia em software, modulo python basico
 
-## Grupo Composto por Alberto Henrique, Alessandro, Brendon Ezequiel e João Pedro
+## Grupo Composto por Alberto Henrique, Alessandro, Brendon, Ezequiel e João Pedro
 
 ### PP-P001
 
